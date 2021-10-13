@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/My-Shopping-List/static/css/main.a31ecdaf.chunk.css",
+    "main.js": "/My-Shopping-List/static/js/main.66fe8013.chunk.js",
+    "main.js.map": "/My-Shopping-List/static/js/main.66fe8013.chunk.js.map",
+    "runtime-main.js": "/My-Shopping-List/static/js/runtime-main.ccd33a72.js",
+    "runtime-main.js.map": "/My-Shopping-List/static/js/runtime-main.ccd33a72.js.map",
+    "static/js/2.f67fc3d6.chunk.js": "/My-Shopping-List/static/js/2.f67fc3d6.chunk.js",
+    "static/js/2.f67fc3d6.chunk.js.map": "/My-Shopping-List/static/js/2.f67fc3d6.chunk.js.map",
+    "static/js/3.ffc94332.chunk.js": "/My-Shopping-List/static/js/3.ffc94332.chunk.js",
+    "static/js/3.ffc94332.chunk.js.map": "/My-Shopping-List/static/js/3.ffc94332.chunk.js.map",
+    "index.html": "/My-Shopping-List/index.html",
+    "static/css/main.a31ecdaf.chunk.css.map": "/My-Shopping-List/static/css/main.a31ecdaf.chunk.css.map",
+    "static/js/2.f67fc3d6.chunk.js.LICENSE.txt": "/My-Shopping-List/static/js/2.f67fc3d6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/My-Shopping-List/static/media/bg1.5bc8cfb7.jpg",
+    "static/media/mainlogo.672ae21f.png": "/My-Shopping-List/static/media/mainlogo.672ae21f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccd33a72.js",
+    "static/js/2.f67fc3d6.chunk.js",
+    "static/css/main.a31ecdaf.chunk.css",
+    "static/js/main.66fe8013.chunk.js"
+  ]
+}
